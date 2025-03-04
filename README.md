@@ -12,7 +12,7 @@
 - 😄 Fun fact: I enjoy participating in coding challenges and learning about new security vulnerabilities.
 - ⚡ **Projects**
 - This project is a doctor directory for Srinagar. It allows users to easily find healthcare professionals based on their specialization and location, with links to detailed profiles and additional information.
-- Check out my website:[MediCare](https://medicare-kappa-wine.vercel.app/)
+- Check out my website:[MediCare.in](https://medicare-kappa-wine.vercel.app/)
 
 <!---
 Faizan-cmd-crypto/Faizan-cmd-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
