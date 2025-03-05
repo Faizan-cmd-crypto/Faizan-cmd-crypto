@@ -9,6 +9,7 @@
 * Next.js
 - 📫 How to reach me:
 * Email: faizanahmad1127@gmail.com.com
+* Linkedin:https:[Linkedin profile](//www.linkedin.com/in/faizan-ahmad-ba8056318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Fun fact: I enjoy participating in coding challenges and learning about new security vulnerabilities.
 - ⚡ **Projects**
 - This project is a doctor directory for Srinagar. It allows users to easily find healthcare professionals based on their specialization and location, with links to detailed profiles and additional information.
